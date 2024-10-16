@@ -20,12 +20,11 @@ Agen Guru diimplementasikan di teacher.py. Guru mengetahui kebijakan optimal unt
 Di game.py, kelas permainan utama ditemukan. Kelas Permainan menyimpan status setiap instans permainan tertentu, dan berisi sebagian besar fungsionalitas permainan utama. Loop permainan utama dapat ditemukan di fungsi kelas playGame().
 
 # Referensi
-https://github.com/rfeinman/tictactoe-reinforcement-learning.git
-https://github.com/brianspiering/rl-course/tree/main/06_q_learning
+- https://github.com/rfeinman/tictactoe-reinforcement-learning.git
+- https://github.com/brianspiering/rl-course/tree/main/06_q_learning
 
 # Menajalankan program
 Untuk memainkan permainan anda dapat menjalankan kode:
 ```
 python play.py -a q (Q-learner)
 python play.py -a s (Sarsa-learner)
-
