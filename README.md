@@ -4,7 +4,7 @@
 2. Syakira Az Zahra (G1A021057)
 3. Triana Kesumaningrum (G1A021068)
 
-#Permainan TicTacToe
+# Permainan TicTacToe
 <p align="center">
   <img src="https://mindfulenglish.net/wp-content/uploads/2023/01/tic-tac-toe.jpeg" alt="Deskripsi Gambar" width="400">
 </p>
@@ -19,13 +19,13 @@ Agen Guru diimplementasikan di teacher.py. Guru mengetahui kebijakan optimal unt
 
 Di game.py, kelas permainan utama ditemukan. Kelas Permainan menyimpan status setiap instans permainan tertentu, dan berisi sebagian besar fungsionalitas permainan utama. Loop permainan utama dapat ditemukan di fungsi kelas playGame().
 
-#Menajalankan program
+# Menajalankan program
 Untuk memainkan permainan anda dapat menjalankan kode:
 python play.py -a q (Q-learner)
 python play.py -a s (Sarsa-learner)
 
 Kode ini akan menjalankan permainan dan memungkinkan anda untuk melatih agen secara manual dengan bermain melawan agen itu sendiri.
 
-#Referensi
+# Referensi
 https://github.com/rfeinman/tictactoe-reinforcement-learning.git
 https://github.com/brianspiering/rl-course/tree/main/06_q_learning
