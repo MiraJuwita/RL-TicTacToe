@@ -24,7 +24,7 @@ Di game.py, kelas permainan utama ditemukan. Kelas Permainan menyimpan status se
 - https://github.com/brianspiering/rl-course/tree/main/06_q_learning
 
 # Menajalankan program
-Untuk memainkan permainan anda dapat menjalankan kode:
+Untuk memainkan permainan anda dapat menjalankan perintah:
 ```
 python play.py -a q (Q-learner)
 python play.py -a s (Sarsa-learner)
