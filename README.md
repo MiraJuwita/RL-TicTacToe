@@ -21,8 +21,9 @@ Di game.py, kelas permainan utama ditemukan. Kelas Permainan menyimpan status se
 
 # Menajalankan program
 Untuk memainkan permainan anda dapat menjalankan kode:
-**python play.py -a q (Q-learner)
-python play.py -a s (Sarsa-learner)**
+```bash
+python play.py -a q (Q-learner)
+python play.py -a s (Sarsa-learner)
 
 Kode ini akan menjalankan permainan dan memungkinkan anda untuk melatih agen secara manual dengan bermain melawan agen itu sendiri.
 
